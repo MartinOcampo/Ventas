@@ -1,0 +1,9 @@
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe.config
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\bin\Debug\Hola mundo.exe
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\bin\Debug\Hola mundo.pdb
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csprojResolveAssemblyReference.cache
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\obj\Debug\Hola_mundo.Form1.resources
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\obj\Debug\Hola_mundo.Properties.Resources.resources
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\obj\Debug\Hola mundo.csproj.GenerateResource.Cache
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\obj\Debug\Hola mundo.exe
+c:\users\mocampo\documents\visual studio 2015\Projects\Hola mundo\Hola mundo\obj\Debug\Hola mundo.pdb
