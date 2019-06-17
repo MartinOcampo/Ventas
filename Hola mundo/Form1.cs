@@ -24,7 +24,7 @@ namespace Hola_mundo
 
         private void btnProcesar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(" ¡Hola mundo!");
+            MessageBox.Show(" Trabaja duro en silencio, y deja que tu éxito haga todo el ruido.");
         }
     }
 }
